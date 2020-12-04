@@ -1,5 +1,5 @@
 # MuNiuLiuM
-docker+robot framework+selenium 可扩展水平扩展的测试框架.
+docker+robot framework+selenium+selenium hub 高性能,水平扩展自动化测试平台。
 
 ```shell script
 docker pull qiangzhou/autotest_platform:v1.0
